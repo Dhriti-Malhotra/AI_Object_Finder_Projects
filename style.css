@@ -1,0 +1,22 @@
+body
+{
+    background-size: cover;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.heading
+{
+    font-size: 22px;
+}
+
+.copy_right_footer
+{
+    text-align: center;
+    font-size: 17px;
+    line-height: 2;
+    position:fixed;
+    color:rgb(86, 32, 143);
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+}
